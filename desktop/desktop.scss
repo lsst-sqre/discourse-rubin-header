@@ -1,0 +1,26 @@
+.rubin-nav-header-container {
+  background-color: var(--tertiary);
+  margin: 0;
+  padding: 1rem;
+  padding-right: 8px; // lines up with Discourse padding
+
+  display: flex;
+  justify-content: flex-end;
+
+  font-weight: bold;
+
+  a {
+    margin-left: 2rem;
+    color: var(--secondary);
+    padding: 0.2em 0;
+  }
+
+  a:hover {
+    color: var(--primary-low);
+    box-shadow: inset 0 -2px 0 0 var(--primary-low);
+  }
+
+  .rubin-nav-header-link--active {
+    box-shadow: inset 0 -2px 0 0 var(--secondary);
+  }
+}
