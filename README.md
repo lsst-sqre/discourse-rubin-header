@@ -1,3 +1,3 @@
-# discouse-rubin-header
+# discourse-rubin-header
 
 Rubin Observatory global navigation header in a Discourse forum theme component.
