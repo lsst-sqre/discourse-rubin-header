@@ -1,0 +1,18 @@
+.rubin-header {
+  background-color: var(--header_background);
+  color: var(--primary);
+}
+
+.rubin-triad-logo {
+  width: $large-width;
+  max-width: calc(100% - 16px);
+  margin: 0 auto 0;
+  padding-top: 0.5rem;
+  padding-bottom: 1rem;
+}
+
+.rubin-triad-logo img {
+  max-width: 100%;
+  width: 700px;
+  margin-right: auto;
+}

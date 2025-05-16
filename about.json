@@ -3,4 +3,7 @@
   "about_url": "https://github.com/lsst-sqre/discourse-rubin-header/blob/main/README.md",
   "license_url": "https://github.com/lsst-sqre/discourse-rubin-header/blob/main/LICENSE",
   "component": true,
+  "assets": {
+    "logo": "assets/rubin-nsf-doe-triad-horizontal-dark.png"
+  }
 }
